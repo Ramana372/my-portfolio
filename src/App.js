@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { keyframes, createGlobalStyle } from 'styled-components';
-import Home from './components';
+import Home from './components/index';
 import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
