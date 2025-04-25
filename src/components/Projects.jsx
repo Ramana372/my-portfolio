@@ -127,7 +127,7 @@ const Projects = () => {
     {
       title: "Expense-Track App",
       description: "Developed a responsive MERN-stack expense tracker with secure authentication, customizable dashboards, and external sharing capabilities.",
-      image: "images/expense.png",
+      image: "images/Expense.png",
       technologies: ["React.js", "Node.js","Express.js","MongoDB","CSS"],
       liveLink: "#",
       codeLink: "https://github.com/Ramana372/Expense-Tracker"
