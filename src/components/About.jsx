@@ -123,7 +123,7 @@ const About = () => {
         </AboutText>
         <ImageContainer>
           <ProfileImage 
-            src="/assets/profile.jpg" 
+            src="images/portfolio-image.jpg"
             alt="Venkata Ramana Sadhanala"
           />
         </ImageContainer>
