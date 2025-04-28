@@ -133,7 +133,7 @@ const Projects = () => {
       codeLink: "https://github.com/Ramana372/Expense-Tracker"
     },
     {
-      title: "Portfolio Website",
+      title: "Agri-Equip-Website",
       description: "Created a jQuery-based platform for buying, selling, and auctioning agricultural tools with MongoDB integration for streamlined equipment management.",
       image: "images/agri.png",
       technologies: ["HTML5", "CSS3", "JavaScript"],
