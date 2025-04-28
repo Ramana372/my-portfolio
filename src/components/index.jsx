@@ -198,7 +198,7 @@ const Home = () => {
   return (
     <HeroContainer>
       <HeroContent>
-        <HeroTitle>Welcome to My Portfolio</HeroTitle>
+        <HeroTitle>Venkata Ramana Sadhanala</HeroTitle>
         <HeroDescription>
           I'm a passionate web developer creating beautiful and functional web experiences.
         </HeroDescription>
