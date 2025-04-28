@@ -37,6 +37,17 @@ const HeroContent = styled.div`
   contain: layout style;
 `;
 
+// const HeroTitle = styled.h1`
+//   font-size: 4rem;
+//   margin-bottom: 20px;
+//   font-weight: 800;
+//   animation: ${fadeIn} 1s ease-in;
+//   background: linear-gradient(90deg, #ffffff, #b3b3b3);
+//   -webkit-background-clip: text;
+//   -webkit-text-fill-color: transparent;
+//   line-height: 1.2;
+// `;
+
 const HeroTitle = styled.h1`
   font-size: 4rem;
   margin-bottom: 20px;
@@ -46,6 +57,7 @@ const HeroTitle = styled.h1`
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   line-height: 1.2;
++ white-space: nowrap;
 `;
 
 const HeroDescription = styled.p`
