@@ -107,7 +107,7 @@ const Hero = () => {
   return (
     <HeroContainer>
       <HeroContent>
-        <HeroTitle>Welcome to My Portfolio</HeroTitle>
+        <HeroTitle>I'm Venkata Ramana Sadhanala</HeroTitle>
         <HeroDescription>
           I'm a passionate web developer creating beautiful and functional web experiences.
         </HeroDescription>
